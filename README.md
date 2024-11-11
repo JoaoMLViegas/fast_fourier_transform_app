@@ -45,7 +45,7 @@ python fast_fourier_transform_app.py
 fast_fourier_transform_app/  
 ├── fft_app.py &emsp;# Main app code with tkinter GUI  
 ├── fft.py &emsp;# Fast fourier transform calculations code  
-├── requirements.txt &emsp;# Project dependencies 
+├── requirements.txt &emsp;# Project dependencies  
 ├── README.md &emsp;# Project documentation  
 └── LICENSE &emsp;# Project license  
 
