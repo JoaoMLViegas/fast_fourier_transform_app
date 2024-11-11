@@ -1,0 +1,4 @@
+_venv_fft_app/
+__pycache__/
+*.pyc
+*.pyo
